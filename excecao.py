@@ -1,0 +1,2 @@
+class ExcecionNumeroMuyLargo(Exception):
+    pass
